@@ -1,3 +1,6 @@
+##Dashboard Preview
+![Dashboard](dashboard.png)
+
 #Customer Analysis using SQL & Power BI
 
 ##Project Overview
