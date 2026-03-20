@@ -1,5 +1,5 @@
 ##Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](https://1drv.ms/i/c/0e6f0c11965c6ba3/IQCwnbyUymRuSJVWOFS3SH0OAXUcsqTDgJtfRp97cjCjy2I?e=4zmjIL)
 
 #Customer Analysis using SQL & Power BI
 
